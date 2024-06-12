@@ -3,7 +3,7 @@
 Useful tools and configuration
 
 - messaging
- - zmq
-- [tmux](tmux.md) 
-- [opengrok](opengrok.md) code search engine
+  - zmq - brokerless messaging 
+- [tmux](tmux.md) - terminal multiplexer 
+- [opengrok](opengrok.md) - code search engine
 
