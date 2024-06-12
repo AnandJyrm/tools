@@ -1,8 +1,8 @@
-## [OpenGrok](https://oracle.github.io/opengrok/)
+# [OpenGrok](https://oracle.github.io/opengrok/)
 
 > OpenGrok is a fast and usable source code search and cross reference engine.
 
-### Setup OpenGrok using Docker
+## Setup OpenGrok using Docker
 
 - Clone your code repo into `/src/opengrok/<repo>`
 - Launch OpenGrok instance using docker image
