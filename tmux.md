@@ -46,8 +46,8 @@ Use `Ctrl b + :` to enter the command
 | Command | Action |
 | ------  | ------ |
 | `new -s session-name` | Creates new session with name as `session-name` |
-| `capture-pane -S -<n> | Capture last n lines to buffer |
-| `save-buffer filename.txt` | Save buffer to filename.txt |
+| `capture-pane -S -<n>` | Capture last `n` lines to buffer |
+| `save-buffer filename.txt` | Save buffer to file `filename.txt` |
 
 ## Pane Shortcuts
 
