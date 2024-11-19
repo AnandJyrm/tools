@@ -5,7 +5,7 @@
 #!/usr/local/bin/bash
 
 function print_size {
-    local size=`du -hs "$1" | cut -f1 -d'       '`
+    local size=`du -hs "$1" | cut -f1`
     printf "%s" "$size"
 }
 
