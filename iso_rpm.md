@@ -1,5 +1,11 @@
 # Tools to unpack and extract from iso content
 
+## view iso directory listing
+```bash
+isoinfo -R -f -i <iso>
+isoinfo -R -x <file> -i <iso>
+```
+
 ## extract iso:
 ```bash
 #!/usr/local/bin/bash
