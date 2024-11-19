@@ -6,6 +6,7 @@ Useful tools and configuration
   - zmq - brokerless messaging 
 - [tmux](tmux.md) - terminal multiplexer 
 - [opengrok](opengrok.md) - code search engine
+- [iso and rpm](iso_rpm.md) - Scripts to extract iso and rpms
 - gnmic
 - redis
 - pandoc
