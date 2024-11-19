@@ -85,6 +85,7 @@ host-1234:/xyz/grpcui/ $ /usr/bin/protoc --include_imports --descriptor_set_out=
 ```
 This should generate the file `/xyz/grpcui/system.desc`
 
+#### This step will fail because protoc cannot handle imports from git repos. Clone the imports and edit the proto files to give local paths
 
 ### 2.3 Connecting to your server and launching UI
 
